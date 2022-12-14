@@ -1,4 +1,11 @@
-### Hey, I'm Vinicius Suzano!
+<div align="center">
+  
+### Hi👋, I'm Vinicius Suzano!
+#### A passionate developer from Brazil
+  </div>
+
+
+
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Java and Objective-C
