@@ -26,4 +26,4 @@
   
   ##
   
-  ![snake gif](https://github.com/SuzanoVini/SuzanoVini/blob/output/github-contribution-grid-snake.gif)
+ ![Snake animation](https://github.com/SuzanoVini/SuzanoVini/blob/output/github-contribution-grid-snake.svg)
