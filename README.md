@@ -20,10 +20,11 @@
   <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-  <img align="center" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg">
+  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg">
   <img align="center" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg">  
+ 
   
   ##
   
