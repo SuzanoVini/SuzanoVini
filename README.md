@@ -1,12 +1,12 @@
 <div align="center">
   
-### Hey dev, I'm Vinícius Suzano!
+### Hey dev 😁, I'm Vinícius Suzano!
 #### A passionate developer from Brazil
   </div>
   
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **Java and Objective-C**
+- 🌱 I’m currently learning **Java and loving it!**
 
 - 📫 Email-me: **viniciusgomesrs@hotmail.com**
 
