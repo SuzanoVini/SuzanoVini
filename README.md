@@ -3,10 +3,6 @@
 ### Hey dev 😁, I'm Vinícius Suzano!
 #### A passionate designer/developer from Brazil
   </div>
-  
-- 🔭 I’m currently working on **Javascript**
-
-- 🌱 I’m currently learning **Swift and loving it!**
 
 - 📫 Email-me: **viniciusgomesrs@hotmail.com**
 
