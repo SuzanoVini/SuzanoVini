@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Hey dev 😁, I'm Vinícius Suzano!
-#### A passionate developer from Brazil
+#### A passionate designer/developer from Brazil
   </div>
   
 - 🔭 I’m currently working on **Javascript**
