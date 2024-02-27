@@ -1,7 +1,6 @@
 <div align="center">
   
 ### Hey dev 😁, I'm Vinícius Suzano!
-#### A passionate designer/developer from Brazil
   </div>
 
 - 📫 Email-me: **viniciusgomesrs@hotmail.com**
