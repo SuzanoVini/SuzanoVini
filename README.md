@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hey dev 😁, I'm Vinícius Suzano!
+### Hey 😁, I'm Vini!
   </div>
 
 - 📫 Email-me: **viniciusgomesrs@hotmail.com**
