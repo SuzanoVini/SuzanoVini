@@ -3,7 +3,7 @@
 ### Hey 😁, I'm Vini!
   </div>
 
-- 📫 Email-me: **viniciusgomesrs@hotmail.com**
+- 📫 Email-me: **vini@suzano.ca**
 
 <div style="display: inline_block"><en>
   <h3 align="left">Languages and Tools:</h3>
